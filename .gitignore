@@ -1,0 +1,10 @@
+/target/
+/test-output/
+.idea
+.classpath
+.DS_Store
+.project
+.settings/
+SpringTransaction.iml
+spring-transaction.log
+
